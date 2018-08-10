@@ -1,0 +1,25 @@
+{
+  "name": "ts-book",
+  "version": "1.0.0",
+  "description": "My TypeScript Book Example Source Code",
+  "main": "iindex.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clang2you/ts-book.git"
+  },
+  "author": "Lex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/clang2you/ts-book/issues"
+  },
+  "homepage": "https://github.com/clang2you/ts-book#readme",
+  "devDependencies": {
+    "gulp-typescript": "^5.0.0-alpha.3"
+  },
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
